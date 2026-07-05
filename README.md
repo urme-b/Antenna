@@ -44,9 +44,9 @@
 | Hexagonal | −14.78 | −13.93 | +0.85 | 1.446 | 1.694 | +0.248 |
 <!-- END:delta-table -->
 
-- Same ranking in simulation and hardware; every design clears S11 < −10 dB in both
-- Circular resonates closest to 2.45 GHz and posts the deepest null in both
-- Deltas trace to SMA parasitics, FR-4 εr spread (spec 4.2–4.8, simulated 4.4), etching tolerance, solder loss
+- Same ranking in both; all five clear S11 < −10 dB
+- Circular sits closest to 2.45 GHz with the deepest null
+- Deltas: SMA parasitics, FR-4 εr spread, etching, solder
 
 ### Figure of Merit
 
